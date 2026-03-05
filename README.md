@@ -59,3 +59,9 @@
 ---
 
 ⭐ From [gabriel-g-dev](https://github.com/gabriel-g-dev)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" />
+</p>
