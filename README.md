@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gabriel Garcia</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=3E7BFA&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+TypeScript;Building+clean+and+scalable+apps" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:7c3aed,100:111827&height=220&section=header&text=GABRIEL%20GARCIA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20%7C%20React%20%7C%20TypeScript&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&color=0EA5E9&center=true&vCenter=true&width=820&lines=Bem-vindo+ao+meu+perfil;Construindo+apps+modernos+com+React+e+TypeScript;Sempre+evoluindo+um+commit+por+vez" />
+
+</div>
 
 ---
 
@@ -10,58 +12,34 @@
 
 💻 Web Developer focused on **modern web applications**  
 🎓 Software Engineering Student at **FIAP**  
-⚡ Passionate about **clean code and scalable systems**  
+⚡ Passionate about **clean code and scalable systems**
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Terminal
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+```bash
+> whoami
+gabriel-g-dev
 
-### Tools
-![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+> status
+building modern web apps (React • TypeScript)
 
----
+> now
+learning, shipping, leveling up
 
-## 📊 GitHub Stats
+> next
+clean UI • good UX • scalable code
+🧰 Skills Dashboard
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma&perline=9" /> </div>
+🐍 Contribution Activity
+<p align="center"> <img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
+📊 GitHub Dashboard
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-g-dev&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-g-dev&layout=compact&theme=tokyonight&hide_border=true" /> <img height="190" src="https://streak-stats.demolab.com?user=gabriel-g-dev&theme=tokyonight&hide_border=true" /> </div>
+🌐 Connect with me
+<p align="center"> <a href="https://linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/> </a> </p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-g-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-g-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+⭐ From gabriel-g-dev
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gabriel-g-dev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
-
----
-
-⭐ From [gabriel-g-dev](https://github.com/gabriel-g-dev)
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" />
-</p>
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:111827&height=120&section=footer"/> ```
