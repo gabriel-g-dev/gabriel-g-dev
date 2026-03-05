@@ -38,13 +38,13 @@ clean UI • good UX • scalable code
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <p align="center">
 
