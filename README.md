@@ -37,9 +37,7 @@ clean UI • good UX • scalable code
 ## 🧰 Skills Dashboard
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,figma&theme=dark" />
 </div>
 
 ---
@@ -47,9 +45,7 @@ clean UI • good UX • scalable code
 ## 🐍 Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+  <img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -57,27 +53,41 @@ clean UI • good UX • scalable code
 ## 📊 GitHub Dashboard
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-g-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-g-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="190" src="https://streak-stats.demolab.com?user=gabriel-g-dev&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-g-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-g-dev&layout=compact&theme=tokyonight&hide_border=true" />
+## 📌 Featured Repositories
 
-<img height="190" src="https://streak-stats.demolab.com?user=gabriel-g-dev&theme=tokyonight&hide_border=true" />
+<div align="center">
+
+<!-- Troque os nomes dos repositórios (repo=) pelos que você quer destacar -->
+<a href="https://github.com/gabriel-g-dev/stuchi-editora">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=stuchi-editora&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/gabriel-g-dev/gabriel-g-dev">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=gabriel-g-dev&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
+
+<p align="center">
+  💡 Quer deixar mais forte? Fixe 2–4 projetos aqui e mantenha eles bem organizados.
+</p>
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="center">
-
-<a href="https://linkedin.com">
-
-<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
+  <!-- Troque o link do LinkedIn pelo seu -->
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
