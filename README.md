@@ -60,16 +60,6 @@ clean UI • good UX • scalable code
 
 ---
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-g-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-g-dev&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="190" src="https://streak-stats.demolab.com?user=gabriel-g-dev&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ---
 
 ## 🌆 3D Contribution Graph
