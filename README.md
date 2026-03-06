@@ -74,7 +74,6 @@ clean UI • good UX • scalable code
 
 <div align="center">
 
-<!-- Troque os nomes dos repositórios (repo=) pelos que você quer destacar -->
 <a href="https://github.com/gabriel-g-dev/stuchi-editora">
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=stuchi-editora&theme=tokyonight&hide_border=true" />
 </a>
@@ -83,12 +82,15 @@ clean UI • good UX • scalable code
   <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=gabriel-g-dev&theme=tokyonight&hide_border=true" />
 </a>
 
+<a href="https://github.com/gabriel-g-dev/stuchi-editora">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=stuchi-editora&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 <p align="center">
-  💡 Quer deixar mais forte? Fixe 2–4 projetos aqui e mantenha eles bem organizados.
+💡 Featured projects showcasing my development work
 </p>
-
 ---
 
 ## 🌐 Connect with me
