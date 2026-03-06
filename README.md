@@ -4,9 +4,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&color=0EA5E9&center=true&vCenter=true&width=820&lines=Bem-vindo+ao+meu+perfil;Construindo+apps+modernos+com+React+e+TypeScript;Sempre+evoluindo+um+commit+por+vez" />
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriel-g-dev&label=Visitors&color=7c3aed&style=for-the-badge" />
+</p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+</div>
 
 ## 🚀 About Me
 
@@ -14,7 +18,7 @@
 🎓 Software Engineering Student at **FIAP**  
 ⚡ Passionate about **clean code and scalable systems**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 💻 Terminal
 
@@ -32,7 +36,7 @@ learning, shipping, leveling up
 clean UI • good UX • scalable code
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🧰 Skills Dashboard
 
@@ -50,7 +54,8 @@ clean UI • good UX • scalable code
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🐍 Contribution Graph
 
@@ -58,9 +63,7 @@ clean UI • good UX • scalable code
   <img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🌆 3D Contribution Graph
 
@@ -68,7 +71,7 @@ clean UI • good UX • scalable code
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 📌 Featured Repositories
 
@@ -93,7 +96,8 @@ Meu perfil GitHub com layout premium, automações e widgets.
 <p align="center">
   💡 Featured projects showcasing my development work
 </p>
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🌐 Connect with me
 
@@ -103,8 +107,6 @@ Meu perfil GitHub com layout premium, automações e widgets.
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
----
 
 <div align="center">
 
