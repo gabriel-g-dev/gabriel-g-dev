@@ -74,22 +74,24 @@ clean UI • good UX • scalable code
 
 <div align="center">
 
-<a href="https://github.com/gabriel-g-dev/stuchi-editora">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=stuchi-editora&theme=tokyonight&hide_border=true" />
-</a>
+### 🚀 Stuchi Editora  
+Site institucional responsivo, focado em UX e apresentação profissional.  
+<a href="https://github.com/gabriel-g-dev/stuchi-editora"><b>Ver repositório →</b></a>  
+<br/>
+<sub>HTML • CSS • JavaScript</sub>
 
-<a href="https://github.com/gabriel-g-dev/gabriel-g-dev">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=gabriel-g-dev&theme=tokyonight&hide_border=true" />
-</a>
+<br/><br/>
 
-<a href="https://github.com/gabriel-g-dev/stuchi-editora">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-g-dev&repo=stuchi-editora&theme=tokyonight&hide_border=true" />
-</a>
+### 👤 Profile README  
+Meu perfil GitHub com layout premium, automações e widgets.  
+<a href="https://github.com/gabriel-g-dev/gabriel-g-dev"><b>Ver repositório →</b></a>  
+<br/>
+<sub>Markdown • GitHub Actions</sub>
 
 </div>
 
 <p align="center">
-💡 Featured projects showcasing my development work
+  💡 Featured projects showcasing my development work
 </p>
 ---
 
