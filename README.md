@@ -47,14 +47,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## 📊 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/gabriel-g-dev" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
 ## 📌 Featured Repositories
 
 <div align="center">
