@@ -20,24 +20,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## 💻 Terminal
-
-```bash
-> whoami
-gabriel-g-dev
-
-> status
-building modern web apps (React • TypeScript)
-
-> now
-learning, shipping, leveling up
-
-> next
-clean UI • good UX • scalable code
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
 ## 🧰 Skills Dashboard
 
 <p align="center">
@@ -57,7 +39,7 @@ clean UI • good UX • scalable code
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabriel-g-dev/gabriel-g-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -65,10 +47,10 @@ clean UI • good UX • scalable code
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## 🌆 3D Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-g-dev&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
@@ -102,7 +84,6 @@ Meu perfil GitHub com layout premium, automações e widgets.
 ## 🌐 Connect with me
 
 <p align="center">
-  <!-- Troque o link do LinkedIn pelo seu -->
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
   </a>
