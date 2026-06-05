@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:7c3aed,100:111827&height=220&section=header&text=GABRIEL%20GARCIA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20%7C%20React%20%7C%20TypeScript&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:7c3aed,100:111827&height=220&section=header&text=GABRIEL%20GARCIA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&color=0EA5E9&center=true&vCenter=true&width=820&lines=Bem-vindo+ao+meu+perfil;Construindo+apps+modernos+com+React+e+TypeScript;Sempre+evoluindo+um+commit+por+vez" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&color=0EA5E9&center=true&vCenter=true&width=820&lines=Bem-vindo+ao+meu+perfil;Full-Stack+Developer;Construindo+APIs+robustas+com+Java;E+interfaces+modernas+com+React;Sempre+evoluindo+um+commit+por+vez" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriel-g-dev&label=Visitors&color=7c3aed&style=for-the-badge" />
@@ -14,13 +14,21 @@
 
 ## 🚀 About Me
 
-💻 Web Developer focused on **modern web applications**  
-🎓 Software Engineering Student at **FIAP**  
-⚡ Passionate about **clean code and scalable systems**
+💻 Full-Stack Developer focused on **Backend (Java/Spring Boot) & Modern Web**  
+🎓 Systems Development Student at **FIAP**  
+⚡ Passionate about **clean architecture, scalable APIs, and automated tests**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🧰 Skills Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=316192" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2CA5E0" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -47,36 +55,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-## 📌 Featured Repositories
-
-<div align="center">
-
-### 🚀 Stuchi Editora  
-Site institucional responsivo, focado em UX e apresentação profissional.  
-<a href="https://github.com/gabriel-g-dev/stuchi-editora"><b>Ver repositório →</b></a>  
-<br/>
-<sub>HTML • CSS • JavaScript</sub>
-
-<br/><br/>
-
-### 👤 Profile README  
-Meu perfil GitHub com layout premium, automações e widgets.  
-<a href="https://github.com/gabriel-g-dev/gabriel-g-dev"><b>Ver repositório →</b></a>  
-<br/>
-<sub>Markdown • GitHub Actions</sub>
-
-</div>
-
-<p align="center">
-  💡 Featured projects showcasing my development work
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/dev-gabrielgarcia">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
